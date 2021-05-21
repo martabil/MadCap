@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5 - Top Navigation.fltar" Date="2021-05-16T14:43:56.8143253+02:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5 - Top Navigation.fltar" Date="2021-05-21T20:31:33.3649450+02:00">
     <Messages>Compiling target HTML5 - Top Navigation...
 Removing previously generated content...
 Loading skin info...
@@ -62,7 +62,7 @@ Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated index.htm
 Saving result set...
 Ignored Compiler Warnings: 11
-Output generated in 14 second(s).
+Output generated in 7 second(s).
 
 Done
 Saving log to "C:\Users\user02\Desktop\Studia\MadCapFlare\Torrey\Output\user02\HTML5 - Top Navigation\HTML5 - Top Navigation.mclog"
